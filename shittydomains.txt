@@ -108684,3 +108684,4 @@
 0.0.0.0 worldcoolfeed.com
 0.0.0.0 srghsmpyvvko.com
 0.0.0.0 hidelen.com
+0.0.0.0 quack.duckduckgo.com
