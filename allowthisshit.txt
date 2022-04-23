@@ -1,6 +1,7 @@
 # yea just like domains which break things when blocked
 # also idk how this works
-# 1st one is for google play updates
-# 2nd one for cheesehodt login yes
+# google play updates
 rr2---sn-h0jelne7.gvt1.com
+rr5---sn-h0jelnes.gvt1.com
+#cheesehost registration yes
 byet.org
