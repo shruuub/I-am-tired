@@ -7,6 +7,7 @@
 0.0.0.0 locprod2-elb-us-west-2.prod.mozaws.net
 0.0.0.0 feedback.developers.cloudflare.com
 0.0.0.0 prod.rewardsplatform.microsoft.com
+0.0.0.0 cryptoxmr.net
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
 0.0.0.0 0------------0-------------0.123erp.net
