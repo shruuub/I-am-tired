@@ -108686,3 +108686,12 @@
 0.0.0.0 srghsmpyvvko.com
 0.0.0.0 hidelen.com
 0.0.0.0 appcloud.mcafee.com
+0.0.0.0 console-telemetry.oci.oraclecloud.com
+0.0.0.0 sentry.deepl.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
+0.0.0.0 yourincome-strategy.life
+0.0.0.0 bestwaygen.com
+0.0.0.0 4er-tisch.de
+0.0.0.0 improving.duckduckgo.com
