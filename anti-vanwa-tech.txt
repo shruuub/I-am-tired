@@ -1,0 +1,17 @@
+# yoyoyo it's your boi
+# https://github.com/shruuub/I-am-Tired
+# last modified at 1662895395
+# anyways this blocklist is actually semi profesinoal and ust blocks shit by vanwatech for good.
+# https://wikiless.org/wiki/Nicholas_Lim_(entrepreneur)?lang=en read this if you want
+0.0.0.0 vanwa.tech
+0.0.0.0 cdn.vanwa.tech
+0.0.0.0 billing.vanwa.tech
+0.0.0.0 openinternetaccess.com
+0.0.0.0 handshakenames.com
+0.0.0.0 ipfsbrowser.com
+0.0.0.0 dendns.com
+0.0.0.0 peerdig.com
+0.0.0.0 permanentupload.com
+0.0.0.0 orcahub.com
+0.0.0.0 vanitycrypto.com
+0.0.0.0 vanwatech.com
