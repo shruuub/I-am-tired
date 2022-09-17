@@ -20249,7 +20249,6 @@
 0.0.0.0 costumbre.info
 0.0.0.0 costumesurf.tk
 0.0.0.0 costxliving.tk
-0.0.0.0 cotse.net
 0.0.0.0 cotson.info
 0.0.0.0 cottonanonymous3.tk
 0.0.0.0 cottonbuds.co.cc
