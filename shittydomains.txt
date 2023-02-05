@@ -27,3 +27,4 @@
 0.0.0.0 respectedprivacy.com
 0.0.0.0 matomo.filen.io
 0.0.0.0 stats.serverclienti.com
+0.0.0.0 profile-counter.glitch.me
