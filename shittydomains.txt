@@ -29,3 +29,4 @@
 0.0.0.0 stats.serverclienti.com
 0.0.0.0 profile-counter.glitch.me
 0.0.0.0 analytics.projectsegfau.lt
+0.0.0.0 matomo.hetzner.com
