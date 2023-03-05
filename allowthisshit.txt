@@ -5,3 +5,5 @@ rr2---sn-h0jelne7.gvt1.com
 rr5---sn-h0jelnes.gvt1.com
 #cheesehost registration yes
 byet.org
+# storj for toot.habedieeh.re for now
+link.storjshare.io
