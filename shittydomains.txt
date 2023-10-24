@@ -31,3 +31,4 @@
 0.0.0.0 analytics.projectsegfau.lt
 0.0.0.0 matomo.hetzner.com
 0.0.0.0 unami.secluded.site
+0.0.0.0 analytics.androz2091.fr
